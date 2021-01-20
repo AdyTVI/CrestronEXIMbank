@@ -1,0 +1,13 @@
+<DSP128SGExportFile DeviceType="DSP-1280" CreationDate="10/5/2018 11:23:18 AM" LastModifiedDate="10/5/2018 11:23:18 AM">
+  <Comments>
+  </Comments>
+  <ExportedObjects>
+    <SGObject Type="Preset" ReadOnly="False">
+      <DSPParameterId>Join 33</DSPParameterId>
+      <ControlTitle>join 33</ControlTitle>
+      <ObjectAddress IsEQObject="False" IsVUMeter="False" IsVUMeterInverted="False">
+        <PresetName>Join 33</PresetName>
+      </ObjectAddress>
+    </SGObject>
+  </ExportedObjects>
+</DSP128SGExportFile>
